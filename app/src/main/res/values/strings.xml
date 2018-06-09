@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="ratings">ratings</string>
+    <string name="timings">Hours: 9AM to 8PM(Weekdays)</string>
+    <string name="phone_no">Phone: 080 2351 9760</string>
+    <string name="website">Website: http://www.tholons.com/</string>
+    <string name="address">Address: HIG/dollars Colony, 346, 17th cross, Dollars Colony, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094</string>
+    <string name="business_title">Tholons</string>
+    <string name="thank_you">Thank you \u2764!</string>
+</resources>
