@@ -1,11 +1,16 @@
 # Single Screen App - Project 1 By Udacity && Google.
 
-## Usage:
+## App Information: 
+
+``Tholo : Business management consultant (Source : Google Search)``
+
+## Features:
 
 * Usage of Intents
 * Use of System-level App usage Permission
 * Usage of Rating Bar
 * Usage of Android Cardview
+* Use of Custom Fonts
 
 
 ## ScreenShot:
